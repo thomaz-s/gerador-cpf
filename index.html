@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Completar CPF</title>
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+    <form id="formulario-cpf">
+        <label for="cpf">Digite o CPF. Substitua números desconhecidos por "x", "?" ou "*":</label>
+        <input type="text" id="input-cpf-com-mascara" name="input-cpf-com-mascara" maxlength="11">
+        <input type="submit" value="Calcular" disabled>
+    </form>
+    <p id="consulta"></p>
+    <ol id="ul-resultados"></ol>
+    <script src="script.js"></script>
+</body>
+</html>
