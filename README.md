@@ -1,5 +1,7 @@
 # Consultador de CPF com Máscara
 
+## Esse arquivo README foi gerado pelo ChatGPT, porém o projeto foi criado sem ajuda de IA.
+
 Uma aplicação web em JavaScript que encontra todos os CPFs válidos compatíveis com um padrão informado pelo usuário, permitindo utilizar caracteres coringa (`x`, `X`, `?` ou `*`) para representar dígitos desconhecidos.
 
 🔗 Uma demonstração está disponível no [Pages](https://thomaz-s.github.io/gerador-cpf/).
