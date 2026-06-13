@@ -2,7 +2,7 @@
 
 Uma aplicação web em JavaScript que encontra todos os CPFs válidos compatíveis com um padrão informado pelo usuário, permitindo utilizar caracteres coringa (`x`, `X`, `?` ou `*`) para representar dígitos desconhecidos.
 
-🔗 Uma demonstração está disponível no [Pages](https://thomaz-s.github.io/Consultar-UF-Original/](https://seu-usuario.github.io/gerador-cpf/)).
+🔗 Uma demonstração está disponível no [Pages](https://thomaz-s.github.io/gerador-cpf/).
 
 ## Como funciona
 
